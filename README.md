@@ -1,0 +1,1 @@
+Um gerador de receitas aleatorias usando a API <https://www.themealdb.com/api.php> para gerar uma receita aleatoria a cada click no site
