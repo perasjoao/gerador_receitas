@@ -1,10 +1,7 @@
 
 class GeradorReceitas{
     constructor(){
-        this.gerador;
-        this.imagem;
-        this.preparo;
-        this.ingredientes;
+        this.inicia();
     }
     inicia(){
         this.callAPI();
@@ -117,4 +114,4 @@ class GeradorReceitas{
 }
 
 const g= new GeradorReceitas();
-g.inicia();
+
